@@ -6,7 +6,7 @@ st.header("Breakfast Menu")
 st.text("🍞Dosa")
 st.text("🐔Idli")
 st.text("🥣Fruit Salad")
-
+ 
 st.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
 import pandas
